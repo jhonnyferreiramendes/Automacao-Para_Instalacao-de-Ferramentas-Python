@@ -1,4 +1,4 @@
-O sistema desenvolvido em Python coma utilização do gerenciador de pacotes do winodws realiza a instalaçao de forma automatizada dos seguintes programas:
+Esse sistema foi desenvolvido em Python e realiza a instalaçao de forma automatizada dos seguintes programas:
   [
     0: "Todas as aplicações",
     1: "JetBrains.PyCharm.Community.EAP",
@@ -21,5 +21,5 @@ O sistema desenvolvido em Python coma utilização do gerenciador de pacotes do 
     18: "Google.FirebaseCLI",
     19: "GeoGebra.GraphingCalculator"
     ]
-  Esses programas são utilizados pelos professores de uma instituição de ensino para lecionar aulas práticas nos laboratórios de informatica dessa mesma instituição.
-  Através desses sistema, é possivel realizar a instalação de forma automatizada dessas ferramentas apenas instalando o Winget e rodando o executor como administrador para realizar todas as instalações de forma silenciosa 
+  Esses programas são utilizados pelos professores de uma instituição de ensino para lecionar aulas práticas nos laboratórios de informatica do curso de ciência da computação.
+  Através desses sistema, é possivel realizar a instalação de forma automatizada dessas ferramentas, apenas instalando o Winget e rodando o executor como administrador para realizar todas as instalações de forma silenciosa 
